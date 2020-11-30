@@ -8,7 +8,7 @@
       <p><b>专业：通信工程</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <U=1451558289,3990810629&FM=26&gp=0.jpg>     
     </td>
   </tr>
 </table>
